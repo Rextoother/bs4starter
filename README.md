@@ -2,6 +2,6 @@
 
 ## To Install:
 
--Run command terminal
--$ npm install
--$ npm start
+-Run command terminal <br />
+-$ npm install <br />
+-$ npm start <br />
