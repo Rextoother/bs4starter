@@ -1,6 +1,6 @@
-#Bootstrap 4 Starter Pack!
+# Bootstrap 4 Starter Pack!
 
-To Install:
+## To Install:
 
 -Run command terminal
 -$ npm install
